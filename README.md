@@ -1,4 +1,4 @@
-casual-game
+Casual game
 
 ===========
 
